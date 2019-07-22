@@ -1,4 +1,4 @@
-# Realtime 3D Grapher
+# Realtime 3D Grapher (Stable Version)
 
 ## How to Move
 
